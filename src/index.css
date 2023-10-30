@@ -1,0 +1,17 @@
+body{
+    margin: 0px !important;
+    width: 100vw;
+    background-color: #191919;;
+}
+
+.MuiChartsLegend-root {
+    display: none;
+}
+
+.MuiPieArc-root {
+    stroke: #151515 !important;
+}
+.MuiPieArc-root:hover {
+    box-shadow: 5px 10px yellow;
+}
+
